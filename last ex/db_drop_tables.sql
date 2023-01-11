@@ -1,0 +1,10 @@
+DROP TABLE  constrinfo;
+DROP TABLE  constrparam;
+DROP TABLE  "constraint";
+DROP TABLE  constrtype;
+DROP TABLE  objparam;
+DROP TABLE  object;
+DROP TABLE  objtype;
+DROP TABLE  param;
+DROP TABLE entity;
+DROP TABLE layer;
